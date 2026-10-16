@@ -1,0 +1,19 @@
+name: Baixar fotos
+on:
+  push:
+    paths: ['manifesto.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 baixar.py
+      - run: |
+          git config user.name "nilo-fotos"
+          git config user.email "nilo-fotos@users.noreply.github.com"
+          git add originais relatorio_download.json
+          git commit -m "Fotos baixadas do manifesto" || echo "nada novo"
+          git push
