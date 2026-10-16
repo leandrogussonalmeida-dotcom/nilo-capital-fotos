@@ -1,0 +1,282 @@
+[
+ {
+  "nome": "porta-verde",
+  "ok": true,
+  "bytes": 1565073
+ },
+ {
+  "nome": "casa-colonial",
+  "ok": true,
+  "bytes": 916994
+ },
+ {
+  "nome": "sobrado",
+  "ok": true,
+  "bytes": 698759
+ },
+ {
+  "nome": "fachada-verde",
+  "ok": true,
+  "bytes": 1378164
+ },
+ {
+  "nome": "janelas-madeira",
+  "ok": true,
+  "bytes": 1227431
+ },
+ {
+  "nome": "rua-casas",
+  "ok": true,
+  "bytes": 943955
+ },
+ {
+  "nome": "hall-entrada",
+  "ok": true,
+  "bytes": 579585
+ },
+ {
+  "nome": "chaves-penduradas",
+  "ok": true,
+  "bytes": 1369832
+ },
+ {
+  "nome": "reforma-parede",
+  "ok": true,
+  "bytes": 668646
+ },
+ {
+  "nome": "reforma-escoras",
+  "ok": true,
+  "bytes": 1274222
+ },
+ {
+  "nome": "corredor-claro",
+  "ok": true,
+  "bytes": 922693
+ },
+ {
+  "nome": "obra-ferragem",
+  "ok": true,
+  "bytes": 1498457
+ },
+ {
+  "nome": "terreno",
+  "ok": true,
+  "bytes": 537353
+ },
+ {
+  "nome": "galpao",
+  "ok": true,
+  "bytes": 789501
+ },
+ {
+  "nome": "galpao-interno",
+  "ok": true,
+  "bytes": 1173510
+ },
+ {
+  "nome": "fabrica-tijolo",
+  "ok": true,
+  "bytes": 700167
+ },
+ {
+  "nome": "assinatura",
+  "ok": true,
+  "bytes": 263039
+ },
+ {
+  "nome": "papeis-madeira",
+  "ok": true,
+  "bytes": 750911
+ },
+ {
+  "nome": "calculadora-maos",
+  "ok": true,
+  "bytes": 317807
+ },
+ {
+  "nome": "calculadora-caneta",
+  "ok": true,
+  "bytes": 348689
+ },
+ {
+  "nome": "cartao-notebook",
+  "ok": true,
+  "bytes": 336138
+ },
+ {
+  "nome": "sp-centro",
+  "ok": true,
+  "bytes": 1301152
+ },
+ {
+  "nome": "sp-horizonte",
+  "ok": true,
+  "bytes": 1027620
+ },
+ {
+  "nome": "sp-copan",
+  "ok": true,
+  "bytes": 891945
+ },
+ {
+  "nome": "predio-colorido",
+  "ok": true,
+  "bytes": 1491558
+ },
+ {
+  "nome": "predio-varandas",
+  "ok": true,
+  "bytes": 944442
+ },
+ {
+  "nome": "casa-azul-porto-seguro",
+  "ok": true,
+  "bytes": 460358
+ },
+ {
+  "nome": "casa-colonial-sabara",
+  "ok": true,
+  "bytes": 570531
+ },
+ {
+  "nome": "casario-paraty",
+  "ok": true,
+  "bytes": 1364021
+ },
+ {
+  "nome": "casa-azul-verde",
+  "ok": true,
+  "bytes": 1279670
+ },
+ {
+  "nome": "portal-tiradentes",
+  "ok": true,
+  "bytes": 1018519
+ },
+ {
+  "nome": "varanda-colonial",
+  "ok": true,
+  "bytes": 1180527
+ },
+ {
+  "nome": "janelas-tiradentes",
+  "ok": true,
+  "bytes": 948519
+ },
+ {
+  "nome": "porta-verde-tiradentes",
+  "ok": true,
+  "bytes": 1209948
+ },
+ {
+  "nome": "rua-de-pedra",
+  "ok": true,
+  "bytes": 808982
+ },
+ {
+  "nome": "casa-persianas",
+  "ok": true,
+  "bytes": 1431435
+ },
+ {
+  "nome": "cidade-aerea",
+  "ok": true,
+  "bytes": 1001223
+ },
+ {
+  "nome": "reforma-comodo",
+  "ok": true,
+  "bytes": 243302
+ },
+ {
+  "nome": "reforma-sala-luz",
+  "ok": true,
+  "bytes": 504555
+ },
+ {
+  "nome": "reforma-janelas",
+  "ok": true,
+  "bytes": 833127
+ },
+ {
+  "nome": "reforma-tijolo",
+  "ok": true,
+  "bytes": 491466
+ },
+ {
+  "nome": "obra-edificio",
+  "ok": true,
+  "bytes": 1454621
+ },
+ {
+  "nome": "assinatura-mao",
+  "ok": true,
+  "bytes": 203968
+ },
+ {
+  "nome": "assinatura-madeira",
+  "ok": true,
+  "bytes": 302487
+ },
+ {
+  "nome": "documentos-caneta",
+  "ok": true,
+  "bytes": 959621
+ },
+ {
+  "nome": "cartao-tablet",
+  "ok": true,
+  "bytes": 256924
+ },
+ {
+  "nome": "tres-cartoes",
+  "ok": true,
+  "bytes": 173230
+ },
+ {
+  "nome": "chaves-porta-escura",
+  "ok": true,
+  "bytes": 556419
+ },
+ {
+  "nome": "chave-fechadura",
+  "ok": true,
+  "bytes": 598400
+ },
+ {
+  "nome": "rua-predios-praia-grande",
+  "ok": true,
+  "bytes": 2053280
+ },
+ {
+  "nome": "predio-varandas-natal",
+  "ok": true,
+  "bytes": 1254061
+ },
+ {
+  "nome": "predios-aereo",
+  "ok": true,
+  "bytes": 1254827
+ },
+ {
+  "nome": "predios-bh",
+  "ok": true,
+  "bytes": 1092454
+ },
+ {
+  "nome": "edificio-tijolo",
+  "ok": true,
+  "bytes": 1029826
+ },
+ {
+  "nome": "predios-palmeiras",
+  "ok": true,
+  "bytes": 1581638
+ },
+ {
+  "nome": "edificio-art-deco-sp",
+  "ok": true,
+  "bytes": 1859097
+ }
+]
